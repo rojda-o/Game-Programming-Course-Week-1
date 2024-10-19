@@ -1,5 +1,5 @@
 # Game-Programming-Course-Week-1
-In the first week of my programming course, I started learning the fundamentals of game development using Unity. <br>
+In the first week of the Game Programming course, I started learning the fundamentals of game development using Unity. <br>
 As part of our coursework, I built a simple 3D game to apply the concepts we covered. This project demonstrates the core skills I learned, including: <br>
 
 - Creating a new 3D project in Unity.
